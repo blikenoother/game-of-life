@@ -10,7 +10,7 @@ At each step in time, the following transitions occur:
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction
 
 ### Run code
-  - close the code or download just `game_of_life.py` file
+  - clone the repo or just download `game_of_life.py` file
   - `python3 game_of_life.py`
 
 Supported comamnds:
