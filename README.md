@@ -9,7 +9,7 @@ At each step in time, the following transitions occur:
 3. Any live cell with more than three live neighbors dies, as if by overcrowding.
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction
 
-##### Run code
+### Run code
   - close the code or download just `game_of_life.py` file
   - `python3 game_of_life.py`
 
